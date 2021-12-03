@@ -1,10 +1,14 @@
 import logo from './logo.svg';
+import map from './assets/alvanzia_3.0v.png'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <h1>Welcome to the Alvanzia Campaign Site</h1>
+      <p>I will do something with this soon...</p>
+      <img src={map} className="dummy_map" alt="alvanzia map" />
+      
     </div>
   );
 }
