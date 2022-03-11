@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import map from './assets/alvanzia_4.0v_quick_load.jpg'
 import './App.css';
 
